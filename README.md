@@ -1,32 +1,26 @@
 ## Hi there 👋
 
-<h1 align="left">Hi 👋, I'm Omdeep Singh</h3>
-<h3 align="left">A passionate Android Developer from India</h3>
+# 💫 About Me:
+🔭 I’m currently working on Android, KMP (Kotlin Multiplatform).<br><br>👯 I’m looking to collaborate on Android with Jetpack Compose and KMP for Open Source.<br><br>👨‍💻 All of my projects are available at https://github.com/omdeep1990<br><br>💬 Talk about Android, Jetpack Compose and KMP, Firebase.<br><br>📫 How to reach me omdeep1990@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omdeep1990&label=Profile%20views&color=0e75b6&style=flat" alt="omdeep1990" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omdeep1990" alt="omdeep1990" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omdeep-singh-a5a73617a) 
 
-- 🔭 I’m currently working on **Android, KMP (Kotlin Multiplatform).**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omdeep1990&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omdeep1990&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omdeep1990&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 👯 I’m looking to collaborate on **Android with Jetpack Compose and KMP for Open Source.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omdeep1990&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [https://github.com/omdeep1990](https://github.com/omdeep1990)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Talk about **Android, Jetpack Compose and KMP, Firebase.**
+---
+[![](https://visitcount.itsvg.in/api?id=omdeep1990&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **omdeep1990@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omdeep-singh-a5a73617a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omdeep-singh-a5a73617a" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omdeep1990&show_icons=true&locale=en&layout=compact" alt="omdeep1990" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omdeep1990&show_icons=true&locale=en" alt="omdeep1990" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omdeep1990&" alt="omdeep1990" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
