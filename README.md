@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Android Developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Android, **KMP (Kotlin Multiplatform).<br><br>**👯 I’m looking to collaborate on **Android with Jetpack Compose and KMP for Open Source.<br><br>**👨‍💻 All of my projects are available at [https://github.com/omdeep1990]<br><br>💬 Talk about **Android, Jetpack Compose and KMP, Firebase.<br><br>**📫 How to reach me **omdeep1990@gmail.com**
+🔭 I’m currently working on Android, **KMP (Kotlin Multiplatform)**.<br><br>👯 I’m looking to collaborate on **Android with Jetpack Compose and KMP for Open Source**.<br><br>👨‍💻 All of my projects are available at [https://github.com/omdeep1990]<br><br>💬 Talk about **Android, Jetpack Compose and KMP, Firebase**.<br><br>📫 How to reach me **omdeep1990@gmail.com**
 
 
 ## 🌐 Socials:
